@@ -1,5 +1,5 @@
 # DecodeLabs Internship – Expense Tracker Project
-## Python Project – Expense Tracker
+## Python Project 2 – Expense Tracker
 ### Submitted By
 Lingam Manasa
 ### Domain
